@@ -1,5 +1,5 @@
 # CLI-KnowMeQuiz
- Quiz with quitions related to me 
+ Quiz with questions related to me 
 
 This is a CLI app where you can play a quiz on how well do you know me !!
 
